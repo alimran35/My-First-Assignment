@@ -117,7 +117,7 @@ display: flex;
           
          
        .work-five{
-         background-image: url(" ../Flower Asset/Rectangle 9.png ");
+         background-image: url("./Flower Asset/Rectangle\ 9.png");
          height:350px;
          width: 1100px;
          background-repeat: no-repeat;
